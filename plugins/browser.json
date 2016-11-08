@@ -18,6 +18,51 @@
         },
         "cordova-plugin-console": {
             "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ramondomingos.ecrogreen"
         }
     },
     "dependent_plugins": {
